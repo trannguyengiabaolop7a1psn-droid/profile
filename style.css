@@ -40,7 +40,7 @@ a {
     width: calc(100% + 100px); 
     height: calc(100% + 100px);
     
-    background-image: url('https://github.com/trannguyengiabaolop7a1psn-droid/profile/blob/main/bg.png?raw=true');
+    background-image: url('bg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -381,6 +381,7 @@ a {
         padding: 20px 20px;
     }
 }
+
 
 
 
